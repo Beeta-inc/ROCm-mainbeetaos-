@@ -144,22 +144,12 @@ For a complete list of ROCm components and version information, see the
 
 - [ROCm licenses](https://rocm.docs.amd.com/en/latest/about/license.html)
 
----
-
-## ROCm release history
-
-For information on older ROCm releases, see the
-[ROCm release history](https://rocm.docs.amd.com/en/latest/release/versions.html).
 
 ---
 
-## Contribute
+## Changes
 
-AMD welcomes ROCm contributions using GitHub PRs or issues. See the links
-below for contribution guidelines.
+- ROCm modified source code for Beeta OS ®
 
-- [ROCm](CONTRIBUTING.md)
-- [TheRock](https://github.com/ROCm/TheRock/blob/main/CONTRIBUTING.md)
-- [ROCm documentation](https://rocm.docs.amd.com/en/latest/contribute/contributing.html)
-- [ROCm Systems](https://github.com/ROCm/rocm-systems/blob/develop/CONTRIBUTING.md)
-- [ROCm Libraries](https://github.com/ROCm/rocm-libraries/blob/develop/CONTRIBUTING.md)
+
+© Beeta Technologies,Inc
